@@ -15,7 +15,7 @@
 
 <div align="center">
 
-##  <img width="43" height="38" src="./doc/assets/gifs/ia.gif" />  Artificial Intelligence
+##  <img width="43" height="40" src="./doc/assets/gifs/ia-brain.gif" />  Artificial Intelligence
 
 </div>
 
