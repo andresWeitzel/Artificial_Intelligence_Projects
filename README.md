@@ -147,7 +147,7 @@ Central repository for AI projects such as Predictive and Classification Models,
  ### Details
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
-  <a href="https://github.com/andresWeitzel/Modulo_GPT-J-6B_NLP target="_blank">
+  <a href="https://github.com/andresWeitzel/Modulo_GPT-J-6B_NLP"_blank">
     <img width="60" height="60" alt="code" src="./doc/assets/icons/social-networks/github.gif" style="display: inline-block;" />
   </a>
   <a href="https://www.youtube.com/watch?v=GddMV140leA&list=PLCl11UFjHurDYl5a2CQOkrMx4HWamPuZI" target="_blank">
